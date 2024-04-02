@@ -1,3 +1,26 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="cloudbriclabs-verification"
+        content="a512a6766ccd0bfc3c87a5aeb5b8bc062554af01f21e77613a68054be78db1e4" />
+    <link rel="shortcut icon" href="assets/background/icodeltax.png" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>DeltaX</title>
+    <meta name="description"
+        content="Transportamos todo tipo de carga en la Región Andina, contamos con una amplia red de camiones, y usamos el poder de la tecnología para potenciar tu negocio." />
+    <meta property="og:title" content="DeltaX" />
+    <meta name="author" content="DeltaX" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description"
+        content="Transportamos todo tipo de carga en la Región Andina, contamos con una amplia red de camiones, y usamos el poder de la tecnología para potenciar tu negocio." />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap" />
+    <link href="privacy.css" rel="stylesheet" />
+</head>
+
 <body class="bg-white xl:p-16 p-4">
     <div class="mb-12">
         <div class="flex flex-col mb-8">
